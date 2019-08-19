@@ -1,0 +1,2114 @@
+20-03-2018 11:23 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:23 INFO  - Carousel Banner Check is displayed - Pass
+20-03-2018 11:23 INFO  - Carousel Banner Check is displayed - Pass
+20-03-2018 11:23 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:23 INFO  - Wait to get site Loaded is displayed - Pass
+20-03-2018 11:23 INFO  - Click Menu is clicked - Pass
+20-03-2018 11:23 INFO  - Menu Closed is clicked - Pass
+20-03-2018 11:23 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:23 INFO  - Carousel Banner Check is displayed - Pass
+20-03-2018 11:23 INFO  - Carousel Banner Check is displayed - Pass
+20-03-2018 11:23 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:23 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:23 INFO  - Footer Container is displayed - Pass
+20-03-2018 11:23 INFO  - scrolled to Scroll to Footer - Pass
+20-03-2018 11:23 INFO  - Call & Email Link is displayed - Pass
+20-03-2018 11:23 INFO  - signUpForDailyEmails is displayed - Pass
+20-03-2018 11:23 INFO  - Social Share Icons is displayed - Pass
+20-03-2018 11:23 INFO  - Accordion Menus is displayed - Pass
+20-03-2018 11:23 INFO  - SignUpForSms is displayed - Pass
+20-03-2018 11:23 INFO  - copyRight is displayed - Pass
+20-03-2018 11:23 INFO  - PrivacyPolicy is displayed - Pass
+20-03-2018 11:23 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:23 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:23 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:23 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:23 INFO  - Click Search is clicked - Pass
+20-03-2018 11:23 INFO  - Search is entered in the field - Pass
+20-03-2018 11:23 INFO  - Click Promo is clicked - Pass
+20-03-2018 11:23 INFO  - Promo Page is displayed - Pass
+20-03-2018 11:23 INFO  - Search Suggesion Displayed is displayed - Pass
+20-03-2018 11:24 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:24 INFO  - Click Search is clicked - Pass
+20-03-2018 11:24 INFO  - Search is entered in the field - Pass
+20-03-2018 11:24 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:24 INFO  - Click Search is clicked - Pass
+20-03-2018 11:24 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:24 INFO  - Search Suggesion Displayed is displayed - Pass
+20-03-2018 11:24 INFO  - Search Suggesion Displayed is displayed - Pass
+20-03-2018 11:24 INFO  - Click Cart is clicked - Pass
+20-03-2018 11:24 INFO  - Cart wrapper Opened is displayed - Pass
+20-03-2018 11:24 INFO  - Cart Empty Text is displayed - Pass
+20-03-2018 11:24 INFO  - Back To Homepage is clicked - Pass
+20-03-2018 11:24 INFO  - PLP page is displayed - Pass
+20-03-2018 11:24 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:24 INFO  - Search Count is displayed - Pass
+20-03-2018 11:24 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:24 INFO  - Wait to get site Loaded is displayed - Pass
+20-03-2018 11:24 INFO  - Click Menu is clicked - Pass
+20-03-2018 11:24 INFO  - Selecting Brand Category from pancake is clicked - Pass
+20-03-2018 11:24 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:24 INFO  - Selecting Brand Sub category is clicked - Pass
+20-03-2018 11:24 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:24 INFO  - Wait to get site Loaded is displayed - Pass
+20-03-2018 11:24 INFO  - Click Menu is clicked - Pass
+20-03-2018 11:24 INFO  - Brands page is displayed - Pass
+20-03-2018 11:24 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:24 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:24 INFO  - Click Search is clicked - Pass
+20-03-2018 11:24 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:24 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:24 INFO  - Click Search is clicked - Pass
+20-03-2018 11:24 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:24 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:24 INFO  - Search Count is displayed - Pass
+20-03-2018 11:24 INFO  - Product List Page is displayed - Pass
+20-03-2018 11:24 INFO  - Product Image is displayed - Pass
+20-03-2018 11:24 INFO  - Product NameList is displayed - Pass
+20-03-2018 11:24 INFO  - Product Description is displayed - Pass
+20-03-2018 11:24 INFO  - Product Price is displayed - Pass
+20-03-2018 11:24 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[contains(@class,'sk_mobCategoryItemCont sk_BRANDS')] (tried for 20 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\arunraj.n\AppData\Local\Temp\scoped_dir50204_22324}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.186, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a46c6327391aaf08b164576909c2a056
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.clickElement(SeleniumActionEngine.java:100)
+	at com.skava.reusable.components.HomePageComponents.navBrandCategory(HomePageComponents.java:41)
+	at com.skava.testcases.LT_1015_Brand_Landing_Page_to_PLP_Validation.LT_1015_Brand_Landing_Page_to_PLP_Validation(LT_1015_Brand_Landing_Page_to_PLP_Validation.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+20-03-2018 11:24 ERROR - Selecting Brand Category from pancake is not present - failed
+20-03-2018 11:24 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:24 INFO  - Search Count is displayed - Pass
+20-03-2018 11:24 INFO  - Products displayed in PLP Page is displayed - Pass
+20-03-2018 11:24 INFO  - Back To Top is displayed - Pass
+20-03-2018 11:24 INFO  - Back To Top is clicked - Pass
+20-03-2018 11:24 INFO  - Wait is displayed - Pass
+20-03-2018 11:25 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:25 INFO  - Wait to get site Loaded is displayed - Pass
+20-03-2018 11:25 INFO  - Click Menu is clicked - Pass
+20-03-2018 11:25 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:25 INFO  - Click Search is clicked - Pass
+20-03-2018 11:25 INFO  - lipstick is entered in Search - Pass
+20-03-2018 11:25 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='sk_mobCategory_id']/div[1]/div[1]/div[3] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\arunraj.n\AppData\Local\Temp\scoped_dir54160_23028}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.186, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d4693571b96c846ad6695d9200097c67
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.scrollToElement(SeleniumActionEngine.java:433)
+	at com.skava.reusable.components.HomePageComponents.menuCategoryValidation(HomePageComponents.java:130)
+	at com.skava.testcases.LT_336_BreadCrumb_Validation.LT_336_BreadCrumb_Validation(LT_336_BreadCrumb_Validation.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+20-03-2018 11:25 ERROR - Menu scroll is not present - failed
+20-03-2018 11:25 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@class='sk_mobCategoryItem sk_BRANDS BY CATEGORY'] (tried for 20 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\arunraj.n\AppData\Local\Temp\scoped_dir50204_22324}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.186, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a46c6327391aaf08b164576909c2a056
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.clickElement(SeleniumActionEngine.java:100)
+	at com.skava.reusable.components.HomePageComponents.navBrandCategory(HomePageComponents.java:43)
+	at com.skava.testcases.LT_1015_Brand_Landing_Page_to_PLP_Validation.LT_1015_Brand_Landing_Page_to_PLP_Validation(LT_1015_Brand_Landing_Page_to_PLP_Validation.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+20-03-2018 11:25 ERROR - Selecting Brand Sub category is not present - failed
+20-03-2018 11:25 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:25 INFO  - Search Count is displayed - Pass
+20-03-2018 11:25 INFO  - Sorting Clicked is clicked - Pass
+20-03-2018 11:25 INFO  - Refine is displayed - Pass
+20-03-2018 11:25 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='sk_mobCategory_id']/div[1]/div[1]/div[3] (tried for 20 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\arunraj.n\AppData\Local\Temp\scoped_dir54160_23028}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.186, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d4693571b96c846ad6695d9200097c67
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.clickElement(SeleniumActionEngine.java:100)
+	at com.skava.reusable.components.HomePageComponents.menuCategoryValidation(HomePageComponents.java:131)
+	at com.skava.testcases.LT_336_BreadCrumb_Validation.LT_336_BreadCrumb_Validation(LT_336_BreadCrumb_Validation.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+20-03-2018 11:25 ERROR - Menu Clicked is not present - failed
+20-03-2018 11:25 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@class='sk_mobCategoryItem sk_BRANDS BY CATEGORY']//*[@class='sk_mobSubCategory']//*[@id='sk_mobCategoryItem_id_2_2'] (tried for 20 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\arunraj.n\AppData\Local\Temp\scoped_dir50204_22324}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.186, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a46c6327391aaf08b164576909c2a056
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.clickRandomElement(SeleniumActionEngine.java:504)
+	at com.skava.reusable.components.HomePageComponents.navBrandCategory(HomePageComponents.java:45)
+	at com.skava.testcases.LT_1015_Brand_Landing_Page_to_PLP_Validation.LT_1015_Brand_Landing_Page_to_PLP_Validation(LT_1015_Brand_Landing_Page_to_PLP_Validation.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+20-03-2018 11:25 ERROR - Brand Category Clicked is not present - failed
+20-03-2018 11:25 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:25 INFO  - Click Search is clicked - Pass
+20-03-2018 11:25 INFO  - Shoes is entered in Search - Pass
+20-03-2018 11:25 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='sk_mobCategory_id']/div[1]/div[2]/div[2]/a/div/div[4] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\arunraj.n\AppData\Local\Temp\scoped_dir54160_23028}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.186, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d4693571b96c846ad6695d9200097c67
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.scrollToElement(SeleniumActionEngine.java:433)
+	at com.skava.reusable.components.HomePageComponents.menuCategoryValidation(HomePageComponents.java:132)
+	at com.skava.testcases.LT_336_BreadCrumb_Validation.LT_336_BreadCrumb_Validation(LT_336_BreadCrumb_Validation.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+20-03-2018 11:25 ERROR - Menu sub scroll is not present - failed
+20-03-2018 11:25 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:25 INFO  - Search Count is displayed - Pass
+20-03-2018 11:25 INFO  - Wait Bag Qty is displayed - Pass
+20-03-2018 11:25 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 5 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.reusable.components.PLPandPDPComponents.sort_ApplyFilter(PLPandPDPComponents.java:608)
+	at com.skava.testcases.LT_383_Sort_ApplyFilter.LT_383_Sort_ApplyFilter(LT_383_Sort_ApplyFilter.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 16 more
+20-03-2018 11:25 ERROR - Wait is not present - failed
+20-03-2018 11:25 INFO  -  Sort and filter button click is clicked - Pass
+20-03-2018 11:25 INFO  - Wait Bag Qty is displayed - Pass
+20-03-2018 11:25 INFO  - Apply button is displayed on selecting the category is displayed - Pass
+20-03-2018 11:25 INFO  - scrolled to Scroll to apply - Pass
+20-03-2018 11:25 INFO  - Click apply button is clicked - Pass
+20-03-2018 11:26 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@class='sk_brandsLinksMainCont'] (tried for 30 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.HomePageComponents.navBrandCategory(HomePageComponents.java:47)
+	at com.skava.testcases.LT_1015_Brand_Landing_Page_to_PLP_Validation.LT_1015_Brand_Landing_Page_to_PLP_Validation(LT_1015_Brand_Landing_Page_to_PLP_Validation.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.xpath: //*[@class='sk_brandsLinksMainCont']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:26 ERROR - Brands page is not present - failed
+20-03-2018 11:26 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='sk_mobCategory_id']/div[1]/div[2]/div[2]/a/div/div[4] (tried for 20 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\arunraj.n\AppData\Local\Temp\scoped_dir54160_23028}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.186, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d4693571b96c846ad6695d9200097c67
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.clickElement(SeleniumActionEngine.java:100)
+	at com.skava.reusable.components.HomePageComponents.menuCategoryValidation(HomePageComponents.java:133)
+	at com.skava.testcases.LT_336_BreadCrumb_Validation.LT_336_BreadCrumb_Validation(LT_336_BreadCrumb_Validation.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+20-03-2018 11:26 ERROR - Sub Menu Clicked is not present - failed
+20-03-2018 11:26 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 10 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.reusable.components.PLPandPDPComponents.sort_ApplyFilter(PLPandPDPComponents.java:642)
+	at com.skava.testcases.LT_383_Sort_ApplyFilter.LT_383_Sort_ApplyFilter(LT_383_Sort_ApplyFilter.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 16 more
+20-03-2018 11:26 ERROR - Wait is not present - failed
+20-03-2018 11:26 INFO  - PLP page is displayed after sorting is displayed - Pass
+20-03-2018 11:26 INFO  - PLP page is displayed after sorting is displayed - Pass
+20-03-2018 11:26 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 5 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.reusable.components.PLPandPDPComponents.sort_ApplyFilter(PLPandPDPComponents.java:649)
+	at com.skava.testcases.LT_383_Sort_ApplyFilter.LT_383_Sort_ApplyFilter(LT_383_Sort_ApplyFilter.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 16 more
+20-03-2018 11:26 ERROR - Wait is not present - failed
+20-03-2018 11:26 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='sk_mobCategory_id']/div[1]/div[2]/div[2]/div/div[1]/a/div/div[4] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\arunraj.n\AppData\Local\Temp\scoped_dir54160_23028}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.186, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d4693571b96c846ad6695d9200097c67
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.scrollToElement(SeleniumActionEngine.java:433)
+	at com.skava.reusable.components.HomePageComponents.menuCategoryValidation(HomePageComponents.java:134)
+	at com.skava.testcases.LT_336_BreadCrumb_Validation.LT_336_BreadCrumb_Validation(LT_336_BreadCrumb_Validation.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+20-03-2018 11:26 ERROR - Menu sub cat scroll is not present - failed
+20-03-2018 11:26 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:26 INFO  - Click Search is clicked - Pass
+20-03-2018 11:26 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:26 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:26 INFO  - Click Search is clicked - Pass
+20-03-2018 11:26 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:26 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:26 INFO  - Search Count is displayed - Pass
+20-03-2018 11:26 INFO  - Product List Page is displayed - Pass
+20-03-2018 11:26 INFO  - Product Image is displayed - Pass
+20-03-2018 11:26 INFO  - Product NameList is displayed - Pass
+20-03-2018 11:26 INFO  - Product Description is displayed - Pass
+20-03-2018 11:26 INFO  - Product Price is displayed - Pass
+20-03-2018 11:26 INFO  - Wait Bag Qty is displayed - Pass
+20-03-2018 11:26 INFO  -  Sort and filter button click is clicked - Pass
+20-03-2018 11:26 INFO  - Wait Bag Qty is displayed - Pass
+20-03-2018 11:26 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:26 INFO  - Search Count is displayed - Pass
+20-03-2018 11:26 INFO  - PLP page is displayed after sorting is displayed - Pass
+20-03-2018 11:26 INFO  - Wait Bag Qty is displayed - Pass
+20-03-2018 11:26 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='sk_mobCategory_id']/div[1]/div[2]/div[2]/div/div[1]/a/div/div[4] (tried for 20 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\arunraj.n\AppData\Local\Temp\scoped_dir54160_23028}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.186, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d4693571b96c846ad6695d9200097c67
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.clickElement(SeleniumActionEngine.java:100)
+	at com.skava.reusable.components.HomePageComponents.menuCategoryValidation(HomePageComponents.java:135)
+	at com.skava.testcases.LT_336_BreadCrumb_Validation.LT_336_BreadCrumb_Validation(LT_336_BreadCrumb_Validation.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+20-03-2018 11:26 ERROR - Sub Menu2 Clicked is not present - failed
+20-03-2018 11:26 INFO  - PLP page is displayed after sorting is displayed - Pass
+20-03-2018 11:26 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 5 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.reusable.components.PLPandPDPComponents.sort_ApplyFilter(PLPandPDPComponents.java:608)
+	at com.skava.testcases.LT_387_SortClearAll.LT_387_Sort_ClearAll(LT_387_SortClearAll.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 16 more
+20-03-2018 11:26 ERROR - Wait is not present - failed
+20-03-2018 11:26 INFO  -  Sort and filter button click is clicked - Pass
+20-03-2018 11:26 INFO  - Wait Bag Qty is displayed - Pass
+20-03-2018 11:26 INFO  - Apply button is displayed on selecting the category is displayed - Pass
+20-03-2018 11:26 INFO  - scrolled to Scroll to apply - Pass
+20-03-2018 11:26 INFO  - Click apply button is clicked - Pass
+20-03-2018 11:26 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:26 INFO  - Click Search is clicked - Pass
+20-03-2018 11:26 INFO  - Shoes is entered in Search - Pass
+20-03-2018 11:26 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 10 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.reusable.components.PLPandPDPComponents.sort_ApplyFilter(PLPandPDPComponents.java:642)
+	at com.skava.testcases.LT_387_SortClearAll.LT_387_Sort_ClearAll(LT_387_SortClearAll.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 16 more
+20-03-2018 11:26 ERROR - Wait is not present - failed
+20-03-2018 11:26 INFO  - PLP page is displayed after sorting is displayed - Pass
+20-03-2018 11:26 INFO  - PLP page is displayed after sorting is displayed - Pass
+20-03-2018 11:26 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:26 INFO  - Search Count is displayed - Pass
+20-03-2018 11:27 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 5 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.reusable.components.PLPandPDPComponents.sort_ApplyFilter(PLPandPDPComponents.java:649)
+	at com.skava.testcases.LT_387_SortClearAll.LT_387_Sort_ClearAll(LT_387_SortClearAll.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 16 more
+20-03-2018 11:27 ERROR - Wait is not present - failed
+20-03-2018 11:27 INFO  - PLP page is displayed after sorting is displayed - Pass
+20-03-2018 11:27 INFO  - Wait Bag Qty is displayed - Pass
+20-03-2018 11:27 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:27 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: skMob_breadCrumbContainer_id (tried for 30 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.PLPandPDPComponents.breadcrumbValidation(PLPandPDPComponents.java:19)
+	at com.skava.testcases.LT_336_BreadCrumb_Validation.LT_336_BreadCrumb_Validation(LT_336_BreadCrumb_Validation.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: skMob_breadCrumbContainer_id
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:27 ERROR - Bread Crumb is not present - failed
+20-03-2018 11:27 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 5 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.reusable.components.PLPandPDPComponents.sort_ClearAll(PLPandPDPComponents.java:729)
+	at com.skava.testcases.LT_387_SortClearAll.LT_387_Sort_ClearAll(LT_387_SortClearAll.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 16 more
+20-03-2018 11:27 ERROR - Wait is not present - failed
+20-03-2018 11:27 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:27 INFO  -  Sort and filter button click is clicked - Pass
+20-03-2018 11:27 INFO  - Wait Bag Qty is displayed - Pass
+20-03-2018 11:27 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 5 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.reusable.components.PLPandPDPComponents.sort_ClearAll(PLPandPDPComponents.java:735)
+	at com.skava.testcases.LT_387_SortClearAll.LT_387_Sort_ClearAll(LT_387_SortClearAll.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 16 more
+20-03-2018 11:27 ERROR - Wait is not present - failed
+20-03-2018 11:27 INFO  - Is Clear All button is displayed is displayed - Pass
+20-03-2018 11:27 INFO  - Clear All button Click is clicked - Pass
+20-03-2018 11:27 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:27 INFO  - Click Search is clicked - Pass
+20-03-2018 11:27 INFO  - PLP page is displayed after sorting is displayed - Pass
+20-03-2018 11:27 INFO  - shirts is entered in Search - Pass
+20-03-2018 11:27 INFO  - PLP count is displayed after sorting is displayed - Pass
+20-03-2018 11:27 INFO  - PLP page is displayed after sorting is displayed - Pass
+20-03-2018 11:27 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:27 INFO  - Click Search is clicked - Pass
+20-03-2018 11:27 INFO  - shoes is entered in Search - Pass
+20-03-2018 11:27 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:27 INFO  - Search Count is displayed - Pass
+20-03-2018 11:27 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:27 INFO  - Click Search is clicked - Pass
+20-03-2018 11:27 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:27 INFO  - shirts is entered in Search - Pass
+20-03-2018 11:27 INFO  - Search Count is displayed - Pass
+20-03-2018 11:27 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:27 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:27 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:27 INFO  - Deatils is displayed - Pass
+20-03-2018 11:27 INFO  - Details List is displayed - Pass
+20-03-2018 11:27 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:27 INFO  - Search Count is displayed - Pass
+20-03-2018 11:27 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:27 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:27 INFO  - Size field is displayed - Pass
+20-03-2018 11:27 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:27 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:27 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:27 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:27 INFO  - Close OverLay Clicked is clicked - Pass
+20-03-2018 11:27 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:27 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:27 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:27 INFO  - Size field is displayed - Pass
+20-03-2018 11:27 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:27 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:27 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:27 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:28 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:28 INFO  - Wait to get site Loaded is displayed - Pass
+20-03-2018 11:28 INFO  - Click Menu is clicked - Pass
+20-03-2018 11:28 INFO  - Menu Category is displayed - Pass
+20-03-2018 11:28 INFO  - SubCategory is displayed - Pass
+20-03-2018 11:28 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:28 INFO  - Wait to get site Loaded is displayed - Pass
+20-03-2018 11:28 INFO  - Click Menu is clicked - Pass
+20-03-2018 11:28 INFO  - Menu Category is displayed - Pass
+20-03-2018 11:28 INFO  - SubCategory is displayed - Pass
+20-03-2018 11:28 INFO  - Sub Categories Displayed is displayed - Pass
+20-03-2018 11:28 INFO  - Sub Categories Displayed is displayed - Pass
+20-03-2018 11:28 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:28 INFO  - Cart Opened is displayed - Pass
+20-03-2018 11:28 INFO  - Product Added to Cart is displayed - Pass
+20-03-2018 11:28 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:28 INFO  - Wait to get site Loaded is displayed - Pass
+20-03-2018 11:28 INFO  - Click Menu is clicked - Pass
+20-03-2018 11:28 INFO  - Menu Category is displayed - Pass
+20-03-2018 11:28 INFO  - SubCategory is displayed - Pass
+20-03-2018 11:28 INFO  - Sub Categories Displayed is displayed - Pass
+20-03-2018 11:28 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:28 INFO  - Sub Categories Displayed is displayed - Pass
+20-03-2018 11:28 INFO  - Click Back Button is clicked - Pass
+20-03-2018 11:28 INFO  - Wait to get site Loaded is displayed - Pass
+20-03-2018 11:28 INFO  - Click Menu is clicked - Pass
+20-03-2018 11:28 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:28 INFO  - Wait to get site Loaded is displayed - Pass
+20-03-2018 11:28 INFO  - Click Menu is clicked - Pass
+20-03-2018 11:28 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:28 INFO  - Wait to get site Loaded is displayed - Pass
+20-03-2018 11:28 INFO  - Click Menu is clicked - Pass
+20-03-2018 11:29 INFO  - Enetered Login is clicked - Pass
+20-03-2018 11:29 INFO  - Email is entered in the field - Pass
+20-03-2018 11:29 INFO  - Spider@123 is entered in Password - Pass
+20-03-2018 11:29 INFO  - My Account page displayed is displayed - Pass
+20-03-2018 11:29 INFO  - Enetered Login is clicked - Pass
+20-03-2018 11:29 INFO  - Email is entered in the field - Pass
+20-03-2018 11:29 INFO  - Spider@123 is entered in Password - Pass
+20-03-2018 11:29 INFO  - My Account page displayed is displayed - Pass
+20-03-2018 11:29 INFO  - scrolled to accountsummary - Pass
+20-03-2018 11:29 INFO  - Enetered Login is clicked - Pass
+20-03-2018 11:29 INFO  - Email is entered in the field - Pass
+20-03-2018 11:29 INFO  - Spider@123 is entered in Password - Pass
+20-03-2018 11:29 INFO  - Order history is displayed - Pass
+20-03-2018 11:29 INFO  - scrolled to orderhistory - Pass
+20-03-2018 11:29 INFO  - orderhistory clicked is clicked - Pass
+20-03-2018 11:29 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:29 INFO  - Wait to get site Loaded is displayed - Pass
+20-03-2018 11:29 INFO  - Click Menu is clicked - Pass
+20-03-2018 11:29 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:29 INFO  - Wait to get site Loaded is displayed - Pass
+20-03-2018 11:29 INFO  - Click Menu is clicked - Pass
+20-03-2018 11:29 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:29 INFO  - Wait to get site Loaded is displayed - Pass
+20-03-2018 11:29 INFO  - Click Menu is clicked - Pass
+20-03-2018 11:29 INFO  - Enetered Login is clicked - Pass
+20-03-2018 11:29 INFO  - Email is entered in the field - Pass
+20-03-2018 11:29 INFO  - Spider@123 is entered in Password - Pass
+20-03-2018 11:29 INFO  - Enetered Login is clicked - Pass
+20-03-2018 11:29 INFO  - Email is entered in the field - Pass
+20-03-2018 11:29 INFO  - Spider@123 is entered in Password - Pass
+20-03-2018 11:29 INFO  - settings is displayed - Pass
+20-03-2018 11:29 INFO  - scrolled to settings - Pass
+20-03-2018 11:29 INFO  - settings clicked is clicked - Pass
+20-03-2018 11:30 INFO  - shippingaddress is displayed - Pass
+20-03-2018 11:30 INFO  - scrolled to shippingaddress - Pass
+20-03-2018 11:30 INFO  - shippingaddress clicked is clicked - Pass
+20-03-2018 11:30 INFO  - Enetered Login is clicked - Pass
+20-03-2018 11:30 INFO  - Email is entered in the field - Pass
+20-03-2018 11:30 INFO  - Spider@123 is entered in Password - Pass
+20-03-2018 11:30 INFO  - billingaddress is displayed - Pass
+20-03-2018 11:30 INFO  - scrolled to billingaddress - Pass
+20-03-2018 11:30 INFO  - billingaddress clicked is clicked - Pass
+20-03-2018 11:30 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:30 INFO  - Wait to get site Loaded is displayed - Pass
+20-03-2018 11:30 INFO  - Click Menu is clicked - Pass
+20-03-2018 11:30 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:30 INFO  - Click Search is clicked - Pass
+20-03-2018 11:30 INFO  - Shoes is entered in Search - Pass
+20-03-2018 11:30 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:30 INFO  - Click Search is clicked - Pass
+20-03-2018 11:30 INFO  - Shoes is entered in Search - Pass
+20-03-2018 11:30 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:30 INFO  - Search Count is displayed - Pass
+20-03-2018 11:30 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:30 INFO  - Search Count is displayed - Pass
+20-03-2018 11:30 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:30 INFO  - Wait is displayed - Pass
+20-03-2018 11:30 INFO  - Product QTY increment is displayed - Pass
+20-03-2018 11:30 INFO  - Enetered Login is clicked - Pass
+20-03-2018 11:30 INFO  - Email is entered in the field - Pass
+20-03-2018 11:30 INFO  - Spider@123 is entered in Password - Pass
+20-03-2018 11:30 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:30 INFO  - scrolled to QTY - Pass
+20-03-2018 11:30 INFO  - Increment Click is clicked - Pass
+20-03-2018 11:30 INFO  - Wait is displayed - Pass
+20-03-2018 11:30 INFO  - payment is displayed - Pass
+20-03-2018 11:30 INFO  - scrolled to payment - Pass
+20-03-2018 11:30 INFO  - payment clicked is clicked - Pass
+20-03-2018 11:30 INFO  - Wait is displayed - Pass
+20-03-2018 11:30 INFO  - Product QTY increment is displayed - Pass
+20-03-2018 11:30 INFO  - scrolled to QTY - Pass
+20-03-2018 11:30 INFO  - Increment Click is clicked - Pass
+20-03-2018 11:30 INFO  - Wait is displayed - Pass
+20-03-2018 11:30 INFO  - Product QTY decrement is displayed - Pass
+20-03-2018 11:30 INFO  - scrolled to QTY - Pass
+20-03-2018 11:30 INFO  - Wait is displayed - Pass
+20-03-2018 11:30 INFO  - Decrement Click is clicked - Pass
+20-03-2018 11:30 INFO  - Wait is displayed - Pass
+20-03-2018 11:30 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:31 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:31 INFO  - Click Search is clicked - Pass
+20-03-2018 11:31 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:31 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:31 INFO  - Click Search is clicked - Pass
+20-03-2018 11:31 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:31 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:31 INFO  - Search Count is displayed - Pass
+20-03-2018 11:31 INFO  - Product List Page is displayed - Pass
+20-03-2018 11:31 INFO  - Product Image is displayed - Pass
+20-03-2018 11:31 INFO  - Product NameList is displayed - Pass
+20-03-2018 11:31 INFO  - Product Description is displayed - Pass
+20-03-2018 11:31 INFO  - Product Price is displayed - Pass
+20-03-2018 11:31 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:31 INFO  - Search Count is displayed - Pass
+20-03-2018 11:31 INFO  - Product List Page is displayed - Pass
+20-03-2018 11:31 INFO  - Product Image is displayed - Pass
+20-03-2018 11:31 INFO  - Product NameList is displayed - Pass
+20-03-2018 11:31 INFO  - Product Description is displayed - Pass
+20-03-2018 11:31 INFO  - Product Price is displayed - Pass
+20-03-2018 11:31 INFO  - Click Cart is clicked - Pass
+20-03-2018 11:31 INFO  - Cart wrapper Opened is displayed - Pass
+20-03-2018 11:31 INFO  - Cart Empty Text is displayed - Pass
+20-03-2018 11:31 INFO  - Back To Homepage is clicked - Pass
+20-03-2018 11:31 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:31 INFO  - Wait Bag Qty is displayed - Pass
+20-03-2018 11:31 INFO  - scrolled to Scroll Bag Qty - Pass
+20-03-2018 11:31 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:31 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:31 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:31 INFO  - Size field is displayed - Pass
+20-03-2018 11:31 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:31 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:31 INFO  - Size field is displayed - Pass
+20-03-2018 11:31 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:31 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:31 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:31 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:31 INFO  - PDP overlay is displayed - Pass
+20-03-2018 11:31 INFO  - Wait Bag Qty is displayed - Pass
+20-03-2018 11:31 INFO  - scrolled to Scroll Bag Qty - Pass
+20-03-2018 11:31 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:31 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:31 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:31 INFO  - Click Search is clicked - Pass
+20-03-2018 11:31 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:31 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:31 INFO  - Search Count is displayed - Pass
+20-03-2018 11:31 INFO  - Product List Page is displayed - Pass
+20-03-2018 11:31 INFO  - Product Image is displayed - Pass
+20-03-2018 11:31 INFO  - Product NameList is displayed - Pass
+20-03-2018 11:31 INFO  - Product Description is displayed - Pass
+20-03-2018 11:31 INFO  - Product Price is displayed - Pass
+20-03-2018 11:31 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:31 INFO  - IS Cart page products is displayed is displayed - Pass
+20-03-2018 11:31 INFO  - Is Cart page Displayed is displayed - Pass
+20-03-2018 11:31 INFO  - Is product price Displayed is displayed - Pass
+20-03-2018 11:31 INFO  - Is Item total price is displayed is displayed - Pass
+20-03-2018 11:31 INFO  - Is product QTY Displayed is displayed - Pass
+20-03-2018 11:31 INFO  - Increment Product QTY to 2 is entered in the field - Pass
+20-03-2018 11:31 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:31 INFO  - Click Search is clicked - Pass
+20-03-2018 11:31 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:31 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:31 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:31 INFO  - Search Count is displayed - Pass
+20-03-2018 11:31 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:31 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:31 INFO  - Size field is displayed - Pass
+20-03-2018 11:31 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:31 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:31 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:31 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:31 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:32 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:32 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:32 INFO  - Size field is displayed - Pass
+20-03-2018 11:32 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:32 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:32 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:32 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:32 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:32 INFO  - Product Description is displayed - Pass
+20-03-2018 11:32 INFO  - Product Inventory Status is displayed - Pass
+20-03-2018 11:32 INFO  - Product SKUID is displayed - Pass
+20-03-2018 11:32 INFO  - Product Edit is displayed - Pass
+20-03-2018 11:32 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 30 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.CartComponents.cartQtyIncrement(CartComponents.java:337)
+	at com.skava.testcases.LT_766_Cart_PriceCheck.LT_766_Cart_Price_Check(LT_766_Cart_PriceCheck.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:32 ERROR - Wait is not present - failed
+20-03-2018 11:32 INFO  - Product Remove is displayed - Pass
+20-03-2018 11:32 INFO  - Product Save Later is displayed - Pass
+20-03-2018 11:32 INFO  - Product Size is displayed - Pass
+20-03-2018 11:32 INFO  - Product Colour is displayed - Pass
+20-03-2018 11:32 INFO  - Product Clearance Price is displayed - Pass
+20-03-2018 11:32 INFO  - Product Sale Price is displayed - Pass
+20-03-2018 11:32 INFO  - Cart loading overview is displayed - Pass
+20-03-2018 11:32 INFO  - Is Item total price is displayed is displayed - Pass
+20-03-2018 11:32 INFO  - Discount for product is displayed - Pass
+20-03-2018 11:32 INFO  - Is Item total price is displayed is displayed - Pass
+20-03-2018 11:32 INFO  - Is product QTY Displayed is displayed - Pass
+20-03-2018 11:32 INFO  - Decrement Product QTY to 1 is entered in the field - Pass
+20-03-2018 11:32 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:32 INFO  - Wait is displayed - Pass
+20-03-2018 11:32 INFO  - Edit Button is clicked - Pass
+20-03-2018 11:32 INFO  - PDP Edit overlay is displayed - Pass
+20-03-2018 11:32 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:32 INFO  - Click Search is clicked - Pass
+20-03-2018 11:32 INFO  - dress is entered in Search - Pass
+20-03-2018 11:32 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:32 INFO  - Click Search is clicked - Pass
+20-03-2018 11:32 INFO  - Jeans is entered in Search - Pass
+20-03-2018 11:32 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:32 INFO  - Search Count is displayed - Pass
+20-03-2018 11:32 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 30 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.CartComponents.cartQtyDecrement(CartComponents.java:355)
+	at com.skava.testcases.LT_766_Cart_PriceCheck.LT_766_Cart_Price_Check(LT_766_Cart_PriceCheck.java:43)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:32 ERROR - Wait is not present - failed
+20-03-2018 11:32 INFO  - Cart loading overview is displayed - Pass
+20-03-2018 11:32 INFO  - Is Item total price is displayed is displayed - Pass
+20-03-2018 11:32 INFO  - Discount for product is displayed - Pass
+20-03-2018 11:32 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:32 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:32 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:32 INFO  - Size field is displayed - Pass
+20-03-2018 11:32 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:32 INFO  - Search Count is displayed - Pass
+20-03-2018 11:32 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:32 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:32 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:32 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:32 INFO  - Size field is displayed - Pass
+20-03-2018 11:33 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:33 INFO  - Click Search is clicked - Pass
+20-03-2018 11:33 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:33 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:33 INFO  - Search Count is displayed - Pass
+20-03-2018 11:33 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 20 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.clickElement(SeleniumActionEngine.java:100)
+	at com.skava.reusable.components.PLPandPDPComponents.addToBag_PDP(PLPandPDPComponents.java:368)
+	at com.skava.testcases.LT_775_Remove_Link_Validation.LT_775_Remove_Link_Validation(LT_775_Remove_Link_Validation.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:33 ERROR - Add To Bag Clicked is not present - failed
+20-03-2018 11:33 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:33 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:33 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:33 INFO  - Size field is displayed - Pass
+20-03-2018 11:33 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:33 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:33 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:33 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:33 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:33 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:33 INFO  - Cart Opened is displayed - Pass
+20-03-2018 11:33 INFO  - Product Added to Cart is displayed - Pass
+20-03-2018 11:33 INFO  - Product Description is displayed - Pass
+20-03-2018 11:33 INFO  - Product Inventory Status is displayed - Pass
+20-03-2018 11:33 INFO  - Product SKUID is displayed - Pass
+20-03-2018 11:33 INFO  - Product Edit is displayed - Pass
+20-03-2018 11:33 INFO  - Product Remove is displayed - Pass
+20-03-2018 11:33 INFO  - Product Save Later is displayed - Pass
+20-03-2018 11:33 INFO  - Product Size is displayed - Pass
+20-03-2018 11:33 INFO  - Product Colour is displayed - Pass
+20-03-2018 11:33 INFO  - Product Clearance Price is displayed - Pass
+20-03-2018 11:33 INFO  - Product Sale Price is displayed - Pass
+20-03-2018 11:33 INFO  - Saveforlater is displayed - Pass
+20-03-2018 11:33 INFO  - Saveforlater clicked is clicked - Pass
+20-03-2018 11:33 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='sk_addtobagSuccess_id']/div[1] (tried for 30 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.PLPandPDPComponents.cartSuccess_OverLay(PLPandPDPComponents.java:375)
+	at com.skava.testcases.LT_775_Remove_Link_Validation.LT_775_Remove_Link_Validation(LT_775_Remove_Link_Validation.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.xpath: //*[@id='sk_addtobagSuccess_id']/div[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:33 ERROR - Success Overlay is not present - failed
+20-03-2018 11:33 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:33 INFO  - Click Search is clicked - Pass
+20-03-2018 11:33 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:33 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 20 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.clickElement(SeleniumActionEngine.java:100)
+	at com.skava.reusable.components.PLPandPDPComponents.addToBag_PDP(PLPandPDPComponents.java:368)
+	at com.skava.testcases.LT_776_Product_Remove_Validation.LT_776_Product_Remove_Validation(LT_776_Product_Remove_Validation.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:33 ERROR - Add To Bag Clicked is not present - failed
+20-03-2018 11:33 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@class='skMob_ATB_BtnContainer']/div[2] (tried for 10 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.PLPandPDPComponents.cartSuccess_OverLay(PLPandPDPComponents.java:389)
+	at com.skava.testcases.LT_775_Remove_Link_Validation.LT_775_Remove_Link_Validation(LT_775_Remove_Link_Validation.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.xpath: //*[@class='skMob_ATB_BtnContainer']/div[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:33 ERROR - Success Overlay is not present - failed
+20-03-2018 11:34 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:34 INFO  - Search Count is displayed - Pass
+20-03-2018 11:34 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:34 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:34 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:34 INFO  - Size field is displayed - Pass
+20-03-2018 11:34 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:34 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:34 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:34 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:34 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@class='skMob_ATB_BtnContainer']/div[2] (tried for 20 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.clickElement(SeleniumActionEngine.java:100)
+	at com.skava.reusable.components.PLPandPDPComponents.cartSuccess_OverLay(PLPandPDPComponents.java:390)
+	at com.skava.testcases.LT_775_Remove_Link_Validation.LT_775_Remove_Link_Validation(LT_775_Remove_Link_Validation.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.xpath: //*[@class='skMob_ATB_BtnContainer']/div[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:34 ERROR - Checkout Clicked is not present - failed
+20-03-2018 11:34 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='sk_addtobagSuccess_id']/div[1] (tried for 30 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.PLPandPDPComponents.cartSuccess_OverLay(PLPandPDPComponents.java:375)
+	at com.skava.testcases.LT_776_Product_Remove_Validation.LT_776_Product_Remove_Validation(LT_776_Product_Remove_Validation.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.xpath: //*[@id='sk_addtobagSuccess_id']/div[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:34 ERROR - Success Overlay is not present - failed
+20-03-2018 11:34 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:34 INFO  - Cart Opened is displayed - Pass
+20-03-2018 11:34 INFO  - Product Added to Cart is displayed - Pass
+20-03-2018 11:34 INFO  - Wait is displayed - Pass
+20-03-2018 11:34 INFO  - scrolled to scroll to checkout - Pass
+20-03-2018 11:34 INFO  - Click Checkout is clicked - Pass
+20-03-2018 11:34 INFO  - Sign IN Page Navigated is displayed - Pass
+20-03-2018 11:34 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@class='skMob_ATB_BtnContainer']/div[2] (tried for 10 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.PLPandPDPComponents.cartSuccess_OverLay(PLPandPDPComponents.java:389)
+	at com.skava.testcases.LT_776_Product_Remove_Validation.LT_776_Product_Remove_Validation(LT_776_Product_Remove_Validation.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.xpath: //*[@class='skMob_ATB_BtnContainer']/div[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:34 ERROR - Success Overlay is not present - failed
+20-03-2018 11:34 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:34 INFO  - Click Search is clicked - Pass
+20-03-2018 11:34 INFO  - Shoes is entered in Search - Pass
+20-03-2018 11:34 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.className: widebag-item-short-description (tried for 30 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.CartComponents.clickRemove_Cart(CartComponents.java:78)
+	at com.skava.testcases.LT_775_Remove_Link_Validation.LT_775_Remove_Link_Validation(LT_775_Remove_Link_Validation.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.className: widebag-item-short-description
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:34 ERROR - Wait is not present - failed
+20-03-2018 11:34 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:34 INFO  - Search Count is displayed - Pass
+20-03-2018 11:34 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:34 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@class='skMob_ATB_BtnContainer']/div[2] (tried for 20 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.clickElement(SeleniumActionEngine.java:100)
+	at com.skava.reusable.components.PLPandPDPComponents.cartSuccess_OverLay(PLPandPDPComponents.java:390)
+	at com.skava.testcases.LT_776_Product_Remove_Validation.LT_776_Product_Remove_Validation(LT_776_Product_Remove_Validation.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.xpath: //*[@class='skMob_ATB_BtnContainer']/div[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:34 ERROR - Checkout Clicked is not present - failed
+20-03-2018 11:34 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@class='jsItemRoot widebag-item ']//*[@class='action-link jsRemoveItem']//span[2] (tried for 10 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.ExecutorclickElement(SeleniumActionEngine.java:122)
+	at com.skava.reusable.components.CartComponents.clickRemove_Cart(CartComponents.java:79)
+	at com.skava.testcases.LT_775_Remove_Link_Validation.LT_775_Remove_Link_Validation(LT_775_Remove_Link_Validation.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.xpath: //*[@class='jsItemRoot widebag-item ']//*[@class='action-link jsRemoveItem']//span[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:34 ERROR - Remove Button is not present - failed
+20-03-2018 11:35 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:35 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:35 INFO  - Size field is displayed - Pass
+20-03-2018 11:35 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:35 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:35 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:35 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:35 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:35 INFO  - Click Search is clicked - Pass
+20-03-2018 11:35 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:35 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:35 INFO  - Cart Opened is displayed - Pass
+20-03-2018 11:35 INFO  - Product Added to Cart is displayed - Pass
+20-03-2018 11:35 INFO  - Wait is displayed - Pass
+20-03-2018 11:35 INFO  - Click PayPal is clicked - Pass
+20-03-2018 11:35 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:35 INFO  - Search Count is displayed - Pass
+20-03-2018 11:35 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.className: widebag-item-short-description (tried for 30 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.CartComponents.clickRemove_Cart(CartComponents.java:78)
+	at com.skava.testcases.LT_776_Product_Remove_Validation.LT_776_Product_Remove_Validation(LT_776_Product_Remove_Validation.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.className: widebag-item-short-description
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:35 ERROR - Wait is not present - failed
+20-03-2018 11:35 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:35 INFO  - PayPal Page Navigated is displayed - Pass
+20-03-2018 11:35 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:35 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:35 INFO  - Size field is displayed - Pass
+20-03-2018 11:35 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:35 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:35 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:35 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:35 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@class='jsItemRoot widebag-item ']//*[@class='action-link jsRemoveItem']//span[2] (tried for 10 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.ExecutorclickElement(SeleniumActionEngine.java:122)
+	at com.skava.reusable.components.CartComponents.clickRemove_Cart(CartComponents.java:79)
+	at com.skava.testcases.LT_776_Product_Remove_Validation.LT_776_Product_Remove_Validation(LT_776_Product_Remove_Validation.java:33)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.xpath: //*[@class='jsItemRoot widebag-item ']//*[@class='action-link jsRemoveItem']//span[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:35 ERROR - Remove Button is not present - failed
+20-03-2018 11:35 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:35 INFO  - Click Search is clicked - Pass
+20-03-2018 11:35 INFO  - Shoes is entered in Search - Pass
+20-03-2018 11:35 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:35 INFO  - Cart Opened is displayed - Pass
+20-03-2018 11:35 INFO  - Product Added to Cart is displayed - Pass
+20-03-2018 11:35 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:35 INFO  - Estimated Shipping is displayed - Pass
+20-03-2018 11:35 INFO  - Shipping Method is displayed - Pass
+20-03-2018 11:35 INFO  - Zip Code is displayed - Pass
+20-03-2018 11:35 INFO  - Item Total is displayed - Pass
+20-03-2018 11:35 INFO  - Estimated Shipping is displayed - Pass
+20-03-2018 11:35 INFO  - Estimated Tax is displayed - Pass
+20-03-2018 11:35 INFO  - Estimated Total is displayed - Pass
+20-03-2018 11:35 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:35 INFO  - Search Count is displayed - Pass
+20-03-2018 11:35 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:35 INFO  - Click Search is clicked - Pass
+20-03-2018 11:35 INFO  - shirts is entered in Search - Pass
+20-03-2018 11:35 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:35 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:35 INFO  - Search Count is displayed - Pass
+20-03-2018 11:36 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:36 INFO  - Click Search is clicked - Pass
+20-03-2018 11:36 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:36 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:36 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:36 INFO  - Size field is displayed - Pass
+20-03-2018 11:36 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:36 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:36 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:36 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:36 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:36 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:36 INFO  - Search Count is displayed - Pass
+20-03-2018 11:36 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:36 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:36 INFO  - Size field is displayed - Pass
+20-03-2018 11:36 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:36 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:36 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:36 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:36 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:36 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:36 INFO  - Cart Opened is displayed - Pass
+20-03-2018 11:36 INFO  - Product Added to Cart is displayed - Pass
+20-03-2018 11:36 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:36 INFO  - Wait is displayed - Pass
+20-03-2018 11:36 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:36 INFO  - scrolled to scroll to checkout - Pass
+20-03-2018 11:36 INFO  - Click Checkout is clicked - Pass
+20-03-2018 11:36 INFO  - Size field is displayed - Pass
+20-03-2018 11:36 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:36 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:36 INFO  - Guest Checkout is displayed - Pass
+20-03-2018 11:36 INFO  - User Sign IN is displayed - Pass
+20-03-2018 11:36 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:36 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:36 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:36 INFO  - Cart Opened is displayed - Pass
+20-03-2018 11:36 INFO  - Product Added to Cart is displayed - Pass
+20-03-2018 11:36 INFO  - Wait is displayed - Pass
+20-03-2018 11:36 INFO  - scrolled to scroll to checkout - Pass
+20-03-2018 11:36 INFO  - Click Checkout is clicked - Pass
+20-03-2018 11:36 INFO  - Guest Checkout is displayed - Pass
+20-03-2018 11:36 INFO  - User Sign IN is displayed - Pass
+20-03-2018 11:36 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:36 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:36 INFO  - Cart Opened is displayed - Pass
+20-03-2018 11:36 INFO  - Product Added to Cart is displayed - Pass
+20-03-2018 11:36 INFO  - Wait to get site Loaded is displayed - Pass
+20-03-2018 11:36 INFO  - Click Menu is clicked - Pass
+20-03-2018 11:36 INFO  - Wait is displayed - Pass
+20-03-2018 11:36 INFO  - scrolled to scroll to checkout - Pass
+20-03-2018 11:36 INFO  - Click Checkout is clicked - Pass
+20-03-2018 11:36 INFO  - Guest Checkout is displayed - Pass
+20-03-2018 11:36 INFO  - scrolled to Guest Checkout - Pass
+20-03-2018 11:36 INFO  - Guest Checkout is clicked - Pass
+20-03-2018 11:36 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:36 INFO  - Click Search is clicked - Pass
+20-03-2018 11:36 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:36 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:36 INFO  - Click Search is clicked - Pass
+20-03-2018 11:36 INFO  - denims is entered in Search - Pass
+20-03-2018 11:36 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:36 INFO  - Search Count is displayed - Pass
+20-03-2018 11:36 INFO  - Enetered Login is clicked - Pass
+20-03-2018 11:36 INFO  - Email is entered in the field - Pass
+20-03-2018 11:36 INFO  - Spider@123 is entered in Password - Pass
+20-03-2018 11:37 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:37 INFO  - My Account page displayed is displayed - Pass
+20-03-2018 11:37 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:37 INFO  - Search Count is displayed - Pass
+20-03-2018 11:37 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:37 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:37 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:37 INFO  - Size field is displayed - Pass
+20-03-2018 11:37 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:37 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:37 INFO  - PDP overlay is displayed - Pass
+20-03-2018 11:37 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:37 INFO  - Click Cart is clicked - Pass
+20-03-2018 11:37 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:37 INFO  - Cart Opened is displayed - Pass
+20-03-2018 11:37 INFO  - Product Added to Cart is displayed - Pass
+20-03-2018 11:37 INFO  - scrolled to BackToUSShipping - Pass
+20-03-2018 11:37 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:37 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:37 INFO  - Size field is displayed - Pass
+20-03-2018 11:37 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:37 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:37 INFO  - PDP overlay is displayed - Pass
+20-03-2018 11:37 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:37 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:37 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:37 INFO  - IS Cart page products is displayed is displayed - Pass
+20-03-2018 11:37 INFO  - Is Cart page Displayed is displayed - Pass
+20-03-2018 11:37 INFO  - Wait is displayed - Pass
+20-03-2018 11:37 INFO  - scrolled to scroll to checkout - Pass
+20-03-2018 11:37 INFO  - Click Checkout is clicked - Pass
+20-03-2018 11:37 INFO  - Guest Checkout is displayed - Pass
+20-03-2018 11:37 INFO  - scrolled to Guest Checkout - Pass
+20-03-2018 11:37 INFO  - Guest Checkout is clicked - Pass
+20-03-2018 11:37 INFO  - BackToUSShipping is clicked - Pass
+20-03-2018 11:37 INFO  - Wait is displayed - Pass
+20-03-2018 11:37 INFO  - scrolled to scroll to checkout - Pass
+20-03-2018 11:37 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:37 INFO  - IS Cart page products is displayed is displayed - Pass
+20-03-2018 11:37 INFO  - Is Cart page Displayed is displayed - Pass
+20-03-2018 11:37 INFO  - scrolled to BackToUSShipping - Pass
+20-03-2018 11:37 INFO  - Click Checkout is clicked - Pass
+20-03-2018 11:37 INFO  - Review Order Page is displayed - Pass
+20-03-2018 11:37 INFO  - Billing Addrs field in Review Order Page is displayed - Pass
+20-03-2018 11:37 INFO  - Payment field in Review Order Page is displayed - Pass
+20-03-2018 11:37 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:37 INFO  - Shipping Addrs field in Review Order Page is displayed - Pass
+20-03-2018 11:37 INFO  - Order Summary field in Review Order Page is displayed - Pass
+20-03-2018 11:37 INFO  - Guest checkout shipping screen is displayed on tapping guest chekout button is displayed - Pass
+20-03-2018 11:37 INFO  - Place Order is displayed - Pass
+20-03-2018 11:37 INFO  - BackToUSShipping is clicked - Pass
+20-03-2018 11:37 INFO  - Wait is displayed - Pass
+20-03-2018 11:37 INFO  - scrolled to scroll to checkout - Pass
+20-03-2018 11:37 INFO  - Click Checkout is clicked - Pass
+20-03-2018 11:37 INFO  - Guest Checkout is displayed - Pass
+20-03-2018 11:37 INFO  - scrolled to Guest Checkout - Pass
+20-03-2018 11:37 INFO  - Guest Checkout is clicked - Pass
+20-03-2018 11:37 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:37 INFO  - Click Search is clicked - Pass
+20-03-2018 11:37 INFO  - pants is entered in Search - Pass
+20-03-2018 11:37 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:37 INFO  - Click Search is clicked - Pass
+20-03-2018 11:37 INFO  - dress is entered in Search - Pass
+20-03-2018 11:38 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:38 INFO  - Search Count is displayed - Pass
+20-03-2018 11:38 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:38 INFO  - Search Count is displayed - Pass
+20-03-2018 11:38 INFO  - Guest checkout shipping screen is displayed on tapping guest chekout button is displayed - Pass
+20-03-2018 11:38 INFO  - FirstName is entered in the field - Pass
+20-03-2018 11:38 INFO  - SecondName is entered in the field - Pass
+20-03-2018 11:38 INFO  - Address 1 is entered in the field - Pass
+20-03-2018 11:38 INFO  - Address 2 is entered in the field - Pass
+20-03-2018 11:38 INFO  - City is entered in the field - Pass
+20-03-2018 11:38 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:38 INFO  - Postal Code is entered in the field - Pass
+20-03-2018 11:38 INFO  - Untick default billing option is clicked - Pass
+20-03-2018 11:38 INFO  - PhoneNumber is entered in the field - Pass
+20-03-2018 11:38 INFO  - Mail Address is entered in the field - Pass
+20-03-2018 11:38 INFO  - Is Continue Checkout Button displayed is displayed - Pass
+20-03-2018 11:38 INFO  - scrolled to Scroll to Continue Checkout Button - Pass
+20-03-2018 11:38 INFO  - Click Continue checkout button is clicked - Pass
+20-03-2018 11:38 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:38 INFO  - Address Verification is displayed - Pass
+20-03-2018 11:38 INFO  - scrolled to Clicked use as entered in address verification overlay - Pass
+20-03-2018 11:38 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:38 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:38 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:38 INFO  - Size field is displayed - Pass
+20-03-2018 11:38 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:38 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:38 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:38 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:38 INFO  - Size field is displayed - Pass
+20-03-2018 11:38 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:38 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:38 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 10 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.CheckoutComponents.addressVerification(CheckoutComponents.java:115)
+	at com.skava.testcases.LT_1081_GuestCheckout_AddShipping.LT_1081_GuestCheckout_Add_Shipping(LT_1081_GuestCheckout_AddShipping.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:38 ERROR - wait is not present - failed
+20-03-2018 11:38 INFO  - PDP overlay is displayed - Pass
+20-03-2018 11:38 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:38 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:38 INFO  - Clicked OK is displayed - Pass
+20-03-2018 11:38 INFO  - Clicked OK is clicked - Pass
+20-03-2018 11:38 INFO  - PDP overlay is displayed - Pass
+20-03-2018 11:38 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:38 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:38 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:38 INFO  - Click Search is clicked - Pass
+20-03-2018 11:38 INFO  - shoes is entered in Search - Pass
+20-03-2018 11:38 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:38 INFO  - IS Cart page products is displayed is displayed - Pass
+20-03-2018 11:38 INFO  - Is Cart page Displayed is displayed - Pass
+20-03-2018 11:38 INFO  - Wait is displayed - Pass
+20-03-2018 11:38 INFO  - scrolled to scroll to checkout - Pass
+20-03-2018 11:38 INFO  - Click Checkout is clicked - Pass
+20-03-2018 11:38 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:38 INFO  - Guest Checkout is displayed - Pass
+20-03-2018 11:38 INFO  - IS Cart page products is displayed is displayed - Pass
+20-03-2018 11:38 INFO  - scrolled to Guest Checkout - Pass
+20-03-2018 11:38 INFO  - Is Cart page Displayed is displayed - Pass
+20-03-2018 11:38 INFO  - Guest Checkout is clicked - Pass
+20-03-2018 11:38 INFO  - Wait is displayed - Pass
+20-03-2018 11:38 INFO  - scrolled to scroll to checkout - Pass
+20-03-2018 11:38 INFO  - Click Checkout is clicked - Pass
+20-03-2018 11:38 INFO  - Guest Checkout is displayed - Pass
+20-03-2018 11:38 INFO  - scrolled to Guest Checkout - Pass
+20-03-2018 11:38 INFO  - Guest Checkout is clicked - Pass
+20-03-2018 11:38 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:38 INFO  - Search Count is displayed - Pass
+20-03-2018 11:38 INFO  - Guest checkout shipping screen is displayed on tapping guest chekout button is displayed - Pass
+20-03-2018 11:38 INFO  - FirstName is entered in the field - Pass
+20-03-2018 11:38 INFO  - SecondName is entered in the field - Pass
+20-03-2018 11:38 INFO  - Address 1 is entered in the field - Pass
+20-03-2018 11:38 INFO  - Address 2 is entered in the field - Pass
+20-03-2018 11:38 INFO  - City is entered in the field - Pass
+20-03-2018 11:38 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:38 INFO  - Postal Code is entered in the field - Pass
+20-03-2018 11:38 INFO  - PhoneNumber is entered in the field - Pass
+20-03-2018 11:38 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:38 INFO  - Guest checkout shipping screen is displayed on tapping guest chekout button is displayed - Pass
+20-03-2018 11:38 INFO  - Mail Address is entered in the field - Pass
+20-03-2018 11:38 INFO  - Is Continue Checkout Button displayed is displayed - Pass
+20-03-2018 11:38 INFO  - scrolled to Scroll to Continue Checkout Button - Pass
+20-03-2018 11:38 INFO  - FirstName is entered in the field - Pass
+20-03-2018 11:38 INFO  - SecondName is entered in the field - Pass
+20-03-2018 11:38 INFO  - Click Continue checkout button is clicked - Pass
+20-03-2018 11:38 INFO  - Address 1 is entered in the field - Pass
+20-03-2018 11:38 INFO  - Address 2 is entered in the field - Pass
+20-03-2018 11:38 INFO  - City is entered in the field - Pass
+20-03-2018 11:38 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:38 INFO  - Postal Code is entered in the field - Pass
+20-03-2018 11:38 INFO  - PhoneNumber is entered in the field - Pass
+20-03-2018 11:38 INFO  - Mail Address is entered in the field - Pass
+20-03-2018 11:38 INFO  - Is Continue Checkout Button displayed is displayed - Pass
+20-03-2018 11:38 INFO  - scrolled to Scroll to Continue Checkout Button - Pass
+20-03-2018 11:38 INFO  - Click Continue checkout button is clicked - Pass
+20-03-2018 11:38 INFO  - Address Verification is displayed - Pass
+20-03-2018 11:38 INFO  - scrolled to Clicked use as entered in address verification overlay - Pass
+20-03-2018 11:38 INFO  - Address Verification is displayed - Pass
+20-03-2018 11:38 INFO  - scrolled to Clicked use as entered in address verification overlay - Pass
+20-03-2018 11:38 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:38 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:38 INFO  - Size field is displayed - Pass
+20-03-2018 11:38 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:38 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:39 INFO  - PDP overlay is displayed - Pass
+20-03-2018 11:39 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:39 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:39 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 10 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.CheckoutComponents.addressVerification(CheckoutComponents.java:115)
+	at com.skava.testcases.LT_1176_Review_Order_PlaceOrder_Button_Validation.LT_1176_Review_Order_PlaceOrder_Button_Validation(LT_1176_Review_Order_PlaceOrder_Button_Validation.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:39 ERROR - wait is not present - failed
+20-03-2018 11:39 INFO  - Clicked OK is displayed - Pass
+20-03-2018 11:39 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 10 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.CheckoutComponents.addressVerification(CheckoutComponents.java:115)
+	at com.skava.testcases.LT_1083_Payment_Page_Guest_Validation.LT_1083_Payment_Page_Guest_Validation(LT_1083_Payment_Page_Guest_Validation.java:41)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:39 ERROR - wait is not present - failed
+20-03-2018 11:39 INFO  - Clicked OK is clicked - Pass
+20-03-2018 11:39 INFO  - Clicked OK is displayed - Pass
+20-03-2018 11:39 INFO  - Clicked OK is clicked - Pass
+20-03-2018 11:39 INFO  - Place Order Page is displayed - Pass
+20-03-2018 11:39 INFO  - Payment Details is displayed - Pass
+20-03-2018 11:39 INFO  - Place Order Page is displayed - Pass
+20-03-2018 11:39 INFO  - Enter Credit card  Number is entered in the field - Pass
+20-03-2018 11:39 INFO  - Enter Credit card name is entered in the field - Pass
+20-03-2018 11:39 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:39 INFO  - IS Cart page products is displayed is displayed - Pass
+20-03-2018 11:39 INFO  - Is Cart page Displayed is displayed - Pass
+20-03-2018 11:39 INFO  - Wait is displayed - Pass
+20-03-2018 11:39 INFO  - scrolled to scroll to checkout - Pass
+20-03-2018 11:39 INFO  - Enter CVV Num is entered in the field - Pass
+20-03-2018 11:39 INFO  - Click Checkout is clicked - Pass
+20-03-2018 11:39 INFO  - Is Continue Checkout Button displayed is displayed - Pass
+20-03-2018 11:39 INFO  - scrolled to Scroll to Continue Checkout Button - Pass
+20-03-2018 11:39 INFO  - Click Continue checkout button is clicked - Pass
+20-03-2018 11:39 INFO  - Guest Checkout is displayed - Pass
+20-03-2018 11:39 INFO  - scrolled to Guest Checkout - Pass
+20-03-2018 11:39 INFO  - Guest Checkout is clicked - Pass
+20-03-2018 11:39 INFO  - Review Order Page is displayed - Pass
+20-03-2018 11:39 INFO  - Billing Addrs field in Review Order Page is displayed - Pass
+20-03-2018 11:39 INFO  - Payment field in Review Order Page is displayed - Pass
+20-03-2018 11:39 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:39 INFO  - Shipping Addrs field in Review Order Page is displayed - Pass
+20-03-2018 11:39 INFO  - Order Summary field in Review Order Page is displayed - Pass
+20-03-2018 11:39 INFO  - Place Order is displayed - Pass
+20-03-2018 11:39 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:39 INFO  - Click Search is clicked - Pass
+20-03-2018 11:39 INFO  - shirts is entered in Search - Pass
+20-03-2018 11:39 INFO  - Guest checkout shipping screen is displayed on tapping guest chekout button is displayed - Pass
+20-03-2018 11:39 INFO  - FirstName is entered in the field - Pass
+20-03-2018 11:39 INFO  - SecondName is entered in the field - Pass
+20-03-2018 11:39 INFO  - Address 1 is entered in the field - Pass
+20-03-2018 11:39 INFO  - Address 2 is entered in the field - Pass
+20-03-2018 11:39 INFO  - City is entered in the field - Pass
+20-03-2018 11:39 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:39 INFO  - Postal Code is entered in the field - Pass
+20-03-2018 11:39 INFO  - PhoneNumber is entered in the field - Pass
+20-03-2018 11:39 INFO  - Mail Address is entered in the field - Pass
+20-03-2018 11:39 INFO  - Is Continue Checkout Button displayed is displayed - Pass
+20-03-2018 11:39 INFO  - scrolled to Scroll to Continue Checkout Button - Pass
+20-03-2018 11:39 INFO  - Click Continue checkout button is clicked - Pass
+20-03-2018 11:39 INFO  - Address Verification is displayed - Pass
+20-03-2018 11:39 INFO  - scrolled to Clicked use as entered in address verification overlay - Pass
+20-03-2018 11:39 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:39 INFO  - Search Count is displayed - Pass
+20-03-2018 11:39 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:39 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 10 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.CheckoutComponents.addressVerification(CheckoutComponents.java:115)
+	at com.skava.testcases.LT_1235_GuestCheckout_Payment_FiledCheck.LT_1235_GuestCheckout_Payment_FiledCheck(LT_1235_GuestCheckout_Payment_FiledCheck.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:39 ERROR - wait is not present - failed
+20-03-2018 11:39 INFO  - Clicked OK is displayed - Pass
+20-03-2018 11:39 INFO  - Clicked OK is clicked - Pass
+20-03-2018 11:39 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:39 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:39 INFO  - Size field is displayed - Pass
+20-03-2018 11:39 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:39 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:39 INFO  - Place Order Page is displayed - Pass
+20-03-2018 11:39 INFO  - Payment section is displayed - Pass
+20-03-2018 11:39 INFO  - Payment section is displayed - Pass
+20-03-2018 11:39 INFO  - scrolled to scroll to gift section - Pass
+20-03-2018 11:39 INFO  - Payment gift card section is displayed - Pass
+20-03-2018 11:39 INFO  - scrolled to scroll to promo code section - Pass
+20-03-2018 11:39 INFO  - Payment promo code section is displayed - Pass
+20-03-2018 11:39 INFO  - scrolled to scroll to create account section - Pass
+20-03-2018 11:39 INFO  - Payment create account section is displayed - Pass
+20-03-2018 11:39 INFO  - PDP overlay is displayed - Pass
+20-03-2018 11:39 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:39 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:40 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:40 INFO  - IS Cart page products is displayed is displayed - Pass
+20-03-2018 11:40 INFO  - Is Cart page Displayed is displayed - Pass
+20-03-2018 11:40 INFO  - Wait is displayed - Pass
+20-03-2018 11:40 INFO  - scrolled to scroll to checkout - Pass
+20-03-2018 11:40 INFO  - Click Checkout is clicked - Pass
+20-03-2018 11:40 INFO  - Guest Checkout is displayed - Pass
+20-03-2018 11:40 INFO  - scrolled to Guest Checkout - Pass
+20-03-2018 11:40 INFO  - Guest Checkout is clicked - Pass
+20-03-2018 11:40 INFO  - Guest checkout shipping screen is displayed on tapping guest chekout button is displayed - Pass
+20-03-2018 11:40 INFO  - FirstName is entered in the field - Pass
+20-03-2018 11:40 INFO  - SecondName is entered in the field - Pass
+20-03-2018 11:40 INFO  - Address 1 is entered in the field - Pass
+20-03-2018 11:40 INFO  - Address 2 is entered in the field - Pass
+20-03-2018 11:40 INFO  - City is entered in the field - Pass
+20-03-2018 11:40 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:40 INFO  - Postal Code is entered in the field - Pass
+20-03-2018 11:40 INFO  - PhoneNumber is entered in the field - Pass
+20-03-2018 11:40 INFO  - Mail Address is entered in the field - Pass
+20-03-2018 11:40 INFO  - Is Continue Checkout Button displayed is displayed - Pass
+20-03-2018 11:40 INFO  - scrolled to Scroll to Continue Checkout Button - Pass
+20-03-2018 11:40 INFO  - Click Continue checkout button is clicked - Pass
+20-03-2018 11:40 INFO  - Address Verification is displayed - Pass
+20-03-2018 11:40 INFO  - scrolled to Clicked use as entered in address verification overlay - Pass
+20-03-2018 11:40 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 10 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.CheckoutComponents.addressVerification(CheckoutComponents.java:115)
+	at com.skava.testcases.LT_1236_GuestCheckout_Payment_FieldCheck.LT_1236_GuestCheckout_Payment_FieldCheck(LT_1236_GuestCheckout_Payment_FieldCheck.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 17 more
+20-03-2018 11:40 ERROR - wait is not present - failed
+20-03-2018 11:40 INFO  - Clicked OK is displayed - Pass
+20-03-2018 11:40 INFO  - Clicked OK is clicked - Pass
+20-03-2018 11:40 INFO  - Place Order Page is displayed - Pass
+20-03-2018 11:40 INFO  - Payment section is displayed - Pass
+20-03-2018 11:40 INFO  - Payment section is displayed - Pass
+20-03-2018 11:40 INFO  - Payment type is displayed - Pass
+20-03-2018 11:40 INFO  - Card no  is displayed - Pass
+20-03-2018 11:40 INFO  - Card name  is displayed - Pass
+20-03-2018 11:40 INFO  - Card  exp month is displayed - Pass
+20-03-2018 11:40 INFO  - Card  exp year is displayed - Pass
+20-03-2018 11:40 INFO  - Card  CVV is displayed - Pass
+20-03-2018 11:40 INFO  - scrolled to scroll to gift section - Pass
+20-03-2018 11:40 INFO  - Payment gift card section is displayed - Pass
+20-03-2018 11:40 INFO  - Gift Card No is displayed - Pass
+20-03-2018 11:40 INFO  - Gift Card Pin is displayed - Pass
+20-03-2018 11:40 INFO  - scrolled to scroll to promo code section - Pass
+20-03-2018 11:40 INFO  - Payment promo code section is displayed - Pass
+20-03-2018 11:40 INFO  - Promo code field is displayed - Pass
+20-03-2018 11:40 INFO  - scrolled to scroll to create account section - Pass
+20-03-2018 11:40 INFO  - Payment create account section is displayed - Pass
+20-03-2018 11:40 INFO  - Account password field is displayed - Pass
+20-03-2018 11:40 INFO  - Account confirm password field is displayed - Pass
+20-03-2018 11:40 INFO  - Account password hint field is displayed - Pass

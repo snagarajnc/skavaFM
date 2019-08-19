@@ -1,0 +1,220 @@
+20-03-2018 11:18 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:18 INFO  - Click Search is clicked - Pass
+20-03-2018 11:18 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:18 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:18 INFO  - Search Count is displayed - Pass
+20-03-2018 11:18 INFO  - Product List Page is displayed - Pass
+20-03-2018 11:18 INFO  - Product Image is displayed - Pass
+20-03-2018 11:18 INFO  - Product NameList is displayed - Pass
+20-03-2018 11:18 INFO  - Product Description is displayed - Pass
+20-03-2018 11:18 INFO  - Product Price is displayed - Pass
+20-03-2018 11:18 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:18 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:18 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:18 INFO  - Size field is displayed - Pass
+20-03-2018 11:18 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:18 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:18 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:18 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:19 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:19 INFO  - IS Cart page products is displayed is displayed - Pass
+20-03-2018 11:19 INFO  - Is Cart page Displayed is displayed - Pass
+20-03-2018 11:19 INFO  - Is product price Displayed is displayed - Pass
+20-03-2018 11:19 INFO  - Is Item total price is displayed is displayed - Pass
+20-03-2018 11:19 INFO  - Is product QTY Displayed is displayed - Pass
+20-03-2018 11:19 INFO  - Increment Product QTY to 2 is entered in the field - Pass
+20-03-2018 11:19 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 30 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.CartComponents.cartQtyIncrement(CartComponents.java:337)
+	at com.skava.testcases.LT_766_Cart_PriceCheck.LT_766_Cart_Price_Check(LT_766_Cart_PriceCheck.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:776)
+	at org.testng.TestRunner.run(TestRunner.java:634)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:425)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:420)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:385)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:334)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1318)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1243)
+	at org.testng.TestNG.runSuites(TestNG.java:1161)
+	at org.testng.TestNG.run(TestNG.java:1129)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 29 more
+20-03-2018 11:19 ERROR - Wait is not present - failed
+20-03-2018 11:19 INFO  - Cart loading overview is displayed - Pass
+20-03-2018 11:19 INFO  - Is Item total price is displayed is displayed - Pass
+20-03-2018 11:19 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: (//*[@class='widebag-item-discount-price']/span)[1] (tried for 10 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.CartComponents.priceCheck(CartComponents.java:408)
+	at com.skava.testcases.LT_766_Cart_PriceCheck.LT_766_Cart_Price_Check(LT_766_Cart_PriceCheck.java:41)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:776)
+	at org.testng.TestRunner.run(TestRunner.java:634)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:425)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:420)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:385)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:334)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1318)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1243)
+	at org.testng.TestNG.runSuites(TestNG.java:1161)
+	at org.testng.TestNG.run(TestNG.java:1129)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.xpath: (//*[@class='widebag-item-discount-price']/span)[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 29 more
+20-03-2018 11:19 ERROR - Discount for product is not present - failed
+20-03-2018 11:19 INFO  - Is Item total price is displayed is displayed - Pass
+20-03-2018 11:19 INFO  - Is product QTY Displayed is displayed - Pass
+20-03-2018 11:19 INFO  - Decrement Product QTY to 1 is entered in the field - Pass
+20-03-2018 11:20 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: pdpAddtoBagBtn (tried for 30 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.CartComponents.cartQtyDecrement(CartComponents.java:355)
+	at com.skava.testcases.LT_766_Cart_PriceCheck.LT_766_Cart_Price_Check(LT_766_Cart_PriceCheck.java:43)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:776)
+	at org.testng.TestRunner.run(TestRunner.java:634)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:425)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:420)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:385)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:334)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1318)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1243)
+	at org.testng.TestNG.runSuites(TestNG.java:1161)
+	at org.testng.TestNG.run(TestNG.java:1129)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.id: pdpAddtoBagBtn
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 29 more
+20-03-2018 11:20 ERROR - Wait is not present - failed
+20-03-2018 11:20 INFO  - Cart loading overview is displayed - Pass
+20-03-2018 11:20 INFO  - Is Item total price is displayed is displayed - Pass
+20-03-2018 11:20 ERROR - TimeoutException
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: (//*[@class='widebag-item-discount-price']/span)[1] (tried for 10 second(s) with 500 MILLISECONDS interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.skava.framework.action.SeleniumActionEngine.explicitWaitforVisibility(SeleniumActionEngine.java:183)
+	at com.skava.framework.action.SeleniumActionEngine.isElementDisplayed(SeleniumActionEngine.java:201)
+	at com.skava.reusable.components.CartComponents.priceCheck(CartComponents.java:438)
+	at com.skava.testcases.LT_766_Cart_PriceCheck.LT_766_Cart_Price_Check(LT_766_Cart_PriceCheck.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:776)
+	at org.testng.TestRunner.run(TestRunner.java:634)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:425)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:420)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:385)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:334)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1318)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1243)
+	at org.testng.TestNG.runSuites(TestNG.java:1161)
+	at org.testng.TestNG.run(TestNG.java:1129)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.xpath: (//*[@class='widebag-item-discount-price']/span)[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.2.0', revision: '8c03df6b79', time: '2017-02-23 10:51:31 +0000'
+System info: host: 'DESKTOP-AQOISD1', ip: '192.168.234.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:882)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:881)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 29 more
+20-03-2018 11:20 ERROR - Discount for product is not present - failed

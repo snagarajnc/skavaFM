@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.skava.testcases.LT_1081_GuestCheckout_AddShipping">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+          <include name="LT_1081_GuestCheckout_Add_Shipping"/>
+          <include name="initTest"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.skava.testcases.LT_1081_GuestCheckout_AddShipping -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

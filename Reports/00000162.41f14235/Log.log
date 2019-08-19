@@ -1,0 +1,23 @@
+20-03-2018 11:16 INFO  - http://m.lordandtaylor.com/ is opened - Pass
+20-03-2018 11:16 INFO  - Click Search is clicked - Pass
+20-03-2018 11:16 INFO  - Shirts is entered in Search - Pass
+20-03-2018 11:16 INFO  - search/PLP page is displayed - Pass
+20-03-2018 11:16 INFO  - Search Count is displayed - Pass
+20-03-2018 11:16 INFO  - Product List Page is displayed - Pass
+20-03-2018 11:16 INFO  - Product Image is displayed - Pass
+20-03-2018 11:16 INFO  - Product NameList is displayed - Pass
+20-03-2018 11:16 INFO  - Product Description is displayed - Pass
+20-03-2018 11:16 INFO  - Product Price is displayed - Pass
+20-03-2018 11:16 INFO  - PDP Page wait is displayed - Pass
+20-03-2018 11:16 INFO  - scrolled to Scrolling - Pass
+20-03-2018 11:16 INFO  - Colour Field present is displayed - Pass
+20-03-2018 11:16 INFO  - Size field is displayed - Pass
+20-03-2018 11:16 INFO  - scrolled to Add To Bag - Pass
+20-03-2018 11:16 INFO  - Add To Bag Clicked is clicked - Pass
+20-03-2018 11:16 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:16 INFO  - Success Overlay is displayed - Pass
+20-03-2018 11:16 INFO  - Checkout Clicked is clicked - Pass
+20-03-2018 11:16 INFO  - IS Cart page products is displayed is displayed - Pass
+20-03-2018 11:16 INFO  - Is Cart page Displayed is displayed - Pass
+20-03-2018 11:16 INFO  - Is product price Displayed is displayed - Pass
+20-03-2018 11:16 INFO  - Is Item total price is displayed is displayed - Pass

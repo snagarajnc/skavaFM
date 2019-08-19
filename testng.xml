@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Extent Parallel Test" >
+    <test name="ExtentWithParallelClasses" parallel="classes" thread-count="2">
+        <classes>
+        	<class name="com.skava.testcases.LT_1015_Brand_Landing_Page_to_PLP_Validation"/>
+			<class name="com.skava.testcases.LT_1028_Return_Customer_Page_from_Checkout_Validation"/>
+			<class name="com.skava.testcases.LT_1030_Returning_Customer_GuestCheckout_Validation"/>
+			<class name="com.skava.testcases.LT_1044_Guest_Checkout_Validation"/>
+			<class name="com.skava.testcases.LT_119_Pancake_Validation"/>
+			<class name="com.skava.testcases.LT_122_Cart_Validation"/>
+			<class name="com.skava.testcases.LT_132_Search_Suggestion"/> 
+			<class name="com.skava.testcases.LT_1608_MyAccount"/>
+			<class name="com.skava.testcases.LT_1634_MyAccount_Validation"/>
+		 	<class name="com.skava.testcases.LT_1636_OrderHistory_Validation"/>
+			<class name="com.skava.testcases.LT_1637_Accountsettings_Validation"/>
+			<class name="com.skava.testcases.LT_1638_Shippingaddress_validation"/>
+			<class name="com.skava.testcases.LT_1639_Billingaddress_Validation"/>
+			<class name="com.skava.testcases.LT_1640_Payment_Validation"/> 
+			<class name="com.skava.testcases.LT_171_Category_Validation"/>
+			<class name="com.skava.testcases.LT_172_Top_Category_Back_Button_Validation"/>
+			<class name="com.skava.testcases.LT_173_Back_Button_Nav_Validation"/>
+			<class name="com.skava.testcases.LT_184_Brand_Landing_Page_Validation"/>
+			<class name="com.skava.testcases.LT_194_Promo_Link_Validation"/>
+			<class name="com.skava.testcases.LT_315_PLP_Product_Validation"/>
+			<class name="com.skava.testcases.LT_322_PLP_PDP_Nav_Validation"/>
+			<class name="com.skava.testcases.LT_330_Back_To_Top_PLP_Validation"/>
+			<class name="com.skava.testcases.LT_336_BreadCrumb_Validation"/>
+			<class name="com.skava.testcases.LT_350_Sort_Validation"/>
+			<class name="com.skava.testcases.LT_355_Filter_Validation"/>
+			<class name="com.skava.testcases.LT_370_Close_Refine_Validation"/>
+			<class name="com.skava.testcases.LT_432_Product_Details_Validation"/>
+			<class name="com.skava.testcases.LT_449_Add_To_Bag_Overlay_Validation"/>
+			<class name="com.skava.testcases.LT_454_ViewBag_Checkout_Cart_Validation"/>
+			<class name="com.skava.testcases.LT_677_Cart_Checkout_SignIN_Validation"/>
+			<class name="com.skava.testcases.LT_701_Cart_Shipping_Method_Validation"/>
+			<class name="com.skava.testcases.LT_711_Cart_Price_and_Discount_Validation"/>
+			<class name="com.skava.testcases.LT_752_ShoppingBag_Empty_Validation"/>
+			<class name="com.skava.testcases.LT_755_Product_Details_Cart_Validation"/>
+			<class name="com.skava.testcases.LT_773_Cart_Edit_Product_Validation"/>
+			<class name="com.skava.testcases.LT_775_Remove_Link_Validation"/>
+			<class name="com.skava.testcases.LT_776_Product_Remove_Validation"/>
+			<class name="com.skava.testcases.LT_964_Search_to_PDP_Validation"/>  
+		</classes>
+    </test>
+</suite>
